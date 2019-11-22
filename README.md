@@ -6,6 +6,7 @@ Two strange attractors, based on Mathematics from the book Elegant Chaos (2010) 
 To run right click the ".py" file, open with Idle 3 and choose "Run->Run Module". Requires Python 3 / Idle to be
 installed (not tested with Python 2).
 
-Note: arrays are not used as the dimensions are fixed and it would make the code harder to read.
+Note: arrays are not used as the dimensions are fixed and it would make the code harder to read, although some of the
+code could be factored.
 
 Email: danwgrace@gmail.com
