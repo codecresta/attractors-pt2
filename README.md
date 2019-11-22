@@ -7,6 +7,6 @@ To run right click the ".py" file, open with Idle 3 and choose "Run->Run Module"
 installed (not tested with Python 2).
 
 Note: arrays are not used as the dimensions are fixed and it would make the code harder to read, although some of the
-code could be factored.
+code could be factored (debatable).
 
 Email: danwgrace@gmail.com
